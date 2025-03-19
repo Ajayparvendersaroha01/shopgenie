@@ -79,3 +79,7 @@ function addSendMailGET(data){
         console.log(json);
     })
 }
+
+function checkout(){
+    alert("thanks for your feedback");
+}
